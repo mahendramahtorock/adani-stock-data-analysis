@@ -45,4 +45,4 @@ This project solves this problem by:
 These filters allow users to interact with the dashboard easily.
 
 ## 📷 Dashboard Preview
-![Dashboard]( )
+![Dashboard](https://github.com/mahendramahtorock/adani-stock-data-analysis/blob/918932077071e5724f1ec17ba7c110cc49443857/Adani_Stock_Dashboard_Report-1.png)
